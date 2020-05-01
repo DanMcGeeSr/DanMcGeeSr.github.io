@@ -1,3 +1,4 @@
+@@ -1,105 +0,0 @@
 	/* Global styles 
 ------------------------------------*/
 /* border box fix */
@@ -11,6 +12,8 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
+  background: #3a609e;
+  color: #d1d6e0;
 }
 a {
     color: #EF233C;
@@ -60,12 +63,12 @@ h2 {
 ------------------------------------*/
 header, 
 footer {
-  background: #2B2D42;
-  color: #8D99AE;
+  background: #3a609e;
+  color: #d1d6e0;
 }
 header h1,
 header h2 {
-    color: #EDF2F4;
+    color: #3a609e;
     margin: 0;
 }
 
